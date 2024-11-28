@@ -2,6 +2,14 @@
 <h1 align="center">Hi 👋, I'm Mohd Fahad Ali</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+- 🔭 I’m currently working on **Frontend Development**
+
+- 🌱 I’m currently learning **Python,Java**
+
+- 📫 How to reach me **fahadalimohammed01@gmail.com**
+
+- 📄 Know about my experiences [C,HTML<CSS](C,HTML<CSS)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
